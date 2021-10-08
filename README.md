@@ -1,8 +1,6 @@
-# truepeoplesearch-puppeteer
+# faxvin-puppeteer
 
-An attempt to scrape the unscrapeable.
-
-truepeoplesearch.com has data that can help/hurt the world, and it should make for better caller ID!
+Just scraping
 
 # Author
 
